@@ -1,13 +1,10 @@
 package com.relation.service;
 
-import java.util.HashSet;
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.relation.model.CustomerModel;
-import com.relation.model.CustomerModel;
 import com.relation.model.ManagerModel;
 import com.relation.model.OwnerModel;
 import com.relation.model.WaiterModel;
